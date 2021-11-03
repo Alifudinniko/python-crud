@@ -1,5 +1,6 @@
 from enum import unique
-from flask import Flask, request
+from flask import Flask
+from flask import request
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.wrappers import request
 
